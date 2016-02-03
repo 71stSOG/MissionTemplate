@@ -17,15 +17,4 @@ respawnDelay = 60;
 respawnOnStart = -1;
 enableDebugConsole = 1;
 
-showHUD[] = {
-	true,	// Scripted HUD (same as showHUD command)
-	true,	// Vehicle + soldier info
-	false,	// Vehicle radar [HIDDEN]
-	True,	// Vehicle compass [HIDDEN]
-	true,	// Tank direction indicator
-	false,	// Commanding menu
-	false,	// Group Bar
-	false	// HUD Weapon Cursors
-};
-
 disableChannels[]={0,2,3,4,5,6};
