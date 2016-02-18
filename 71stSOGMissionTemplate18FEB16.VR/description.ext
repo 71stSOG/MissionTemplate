@@ -7,7 +7,7 @@ class Header
 
 author = "71st SOG Dev Team";
 onLoadName = "Mission Template"; 
-OnLoadMission = "Welcome to the 71st SOG";
+OnLoadMission = "Carpe Diem";
 loadScreen =  "71STOGLOADING2.jpg"; 
 Saving = 0;
 disabledAI = 1;
