@@ -1,7 +1,7 @@
-Misson Must be named in this format
-ex. 
+Misson Must be named in this format<br/>
+ex. <br/>
 
-COOP_54[71st]MissionName_BM
+COOP_54[71st]MissionName_BM<br/>
 COOP_54[71st]MissionName_BM
 COOP_12[71st]MissionName_AM_NR
 ADV_54[71st]MissionName_BM_NR
