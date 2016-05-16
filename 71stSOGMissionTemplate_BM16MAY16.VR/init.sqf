@@ -10,10 +10,3 @@
 
 //[] execVM "MEI_F\setOPFLoadouts.sqf";
 
-//if (isServer) then
-//{
-	myNewTime = floor random 24;
-	publicVariable "myNewTime";
-};
-//waitUntil{not isNil "myNewTime"};
-//skipTime myNewTime;

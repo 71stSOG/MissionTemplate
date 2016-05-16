@@ -14,7 +14,7 @@ class Header
 };
 
 author = "71st SOG Dev Team";
-onLoadName = "Zeus Altis"; 
+onLoadName = "**Insert Mission Name**"; 
 OnLoadMission = "Carpe Diem";
 loadScreen =  "71STOGLOADING2.jpg"; 
 Saving = 0;
